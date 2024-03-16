@@ -1,0 +1,6 @@
+---
+# tasks file for myrole
+- name: print something 
+  debug:
+      msg: "Just a test"
+      
